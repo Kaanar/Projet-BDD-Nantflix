@@ -1,0 +1,146 @@
+html{
+    background: linear-gradient(to top left, rgb(0, 0, 0) , #333 90%, #eee 75%, #333 75%);
+
+}
+
+h1{
+    font-family: 'Lucida Sans Unicode';
+    text-align: center;
+    color:rgb(224, 7, 7);
+    font-style: oblique;
+
+}
+h2{
+    font-family: 'Lucida Sans Unicode';
+    text-align: center;
+    color:rgb(224, 7, 7);
+    font-size: 28;
+    font-style: oblique;
+}
+
+h3{
+    font-family: 'Lucida Sans Unicode';
+    text-align: center;
+    color:rgb(224, 7, 7);
+    font-size: 16;
+    font-style: oblique;
+}
+p{
+    font-family: 'Lucida Sans Unicode';
+    text-align: center;
+    color:rgb(224, 107, 107);
+    font-style: oblique;
+
+}
+
+.Inscription{
+    font-family: 'Lucida Sans Unicode';
+    position:relative;
+    left:200px;
+    bottom:25px;
+    color:rgb(135, 148, 148);
+    background-image: linear-gradient(to top left, rgb(166,0,0), #333 90%, #eee 75%, #333 75%);
+    font-size: 20px;
+    border-color:rgb(135, 148, 148);
+    
+
+}
+
+.Connexion{
+    font-family: 'Lucida Sans Unicode';
+    position: relative;
+    left:450px;
+    bottom:25px;
+    color:rgb(135, 148, 148);
+    background-image: linear-gradient(to top left, rgb(166,0,0) , #333 85%, #eee 85%, #333 85%);
+    border-color:rgb(135, 148, 148);
+    font-size: 20px;
+
+}
+
+.Regarder{
+    font-family: 'Lucida Sans Unicode';
+    color:black;
+    background-image: linear-gradient(to top left, rgb(166,0,0) , #333 85%, #eee 85%, #333 85%);
+    border-color:rgb(135, 148, 148);
+    font-size: 15px;
+
+}
+.Logout{
+    font-family: 'Lucida Sans Unicode';
+    color:black;
+    background-image: linear-gradient(to top left, rgb(166,0,0) , #333 85%, #eee 85%, #333 85%);
+    border-color:rgb(135, 148, 148);
+    font-size: 15px;
+    position:relative;
+    left:45%;
+}
+
+.a{
+    font-family: 'Lucida Sans Unicode';
+    text-align: center;
+    text-shadow: rgb(135, 148, 148);
+    color:white;
+}
+
+.NantflixConnexion{
+    font-family: 'Lucida Sans Unicode';
+    text-align: center;
+    text-shadow: rgb(135, 148, 148);
+    color:white;    
+}
+
+
+table{
+    background-image: linear-gradient(to top left, rgb(109, 2, 2) 30% , #333 85%, #eee 85%, #333 85%) ;
+    color: black;
+    text-shadow: brown;
+    font-family: 'Lucida Sans Unicode';
+    position:relative;
+    left:350px;
+    border: 2px solid black;
+    width: 50%;
+    border-collapse: collapse;
+
+    
+}
+
+th{
+    text-align: center;
+    height: 50px;
+    border: 2px solid black;
+    border-collapse: collapse;
+
+}
+
+td{
+    text-align: center;
+    border: 2px solid black;
+
+
+}
+
+.ep1{
+    position:relative;
+    left:20%;
+
+}
+
+ul{
+    list-style-type: none;
+}
+
+li{
+    font-family: 'Lucida Sans Unicode';
+    text-align: center;
+}
+
+.ListeSerie{
+    font-family: 'Lucida Sans Unicode';
+    background-image: linear-gradient(to top left, rgb(166,0,0) , #333 85%, #eee 85%, #333 85%);
+    font-size: 15px;
+    position:relative;
+    left:600px;
+}
+
+
